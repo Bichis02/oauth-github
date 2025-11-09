@@ -1,5 +1,7 @@
 # Práctica: Implementación segura de OAuth 2.0 con GitHub
 
+![Logo de la app](logo.svg)
+
 Este repositorio contiene los archivos de la práctica de **Autenticación OAuth 2.0**.
 
 ## Contenido
